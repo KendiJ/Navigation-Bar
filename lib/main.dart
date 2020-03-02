@@ -38,7 +38,7 @@ _getNavBar(context){
           begin: Alignment.topCenter,
           end: Alignment.bottomCenter,
           colors: [
-            Colors.teal,
+            Colors.blue,
             Colors.teal.shade900,
             ]
         )),),
